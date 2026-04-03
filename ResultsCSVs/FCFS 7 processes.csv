@@ -1,0 +1,9 @@
+Process ID,Arrival,Burst,Start,Finish,Waiting,Turnaround,Response Time
+P5,0,12,0,12,0,12,0
+P6,0,16,12,28,12,28,12
+P7,0,9,28,37,28,37,28
+P2,3,12,37,49,34,46,34
+P4,3,6,49,55,46,52,46
+P3,7,14,55,69,48,62,48
+P1,8,2,69,71,61,63,61
+SUMMARY,FCFS - First Come First Serve,7 processes,Avg Wait: 32.71,Avg Turn: 42.86,Avg Response: 32.71,CPU Utilization %: 100.00,Throughput: 0.0986,,

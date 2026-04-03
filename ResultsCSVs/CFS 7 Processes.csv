@@ -1,0 +1,9 @@
+Process ID,Arrival,Burst,Start,Finish,Waiting,Turnaround,Response Time
+P1,8,2,10,29,19,21,2
+P4,3,6,7,30,21,27,4
+P2,3,12,6,45,30,42,3
+P7,0,9,4,52,43,52,4
+P3,7,14,8,54,33,47,1
+P5,0,12,0,59,47,59,0
+P6,0,16,3,71,55,71,3
+SUMMARY,CFS - Completely Fair Scheduler,7 processes,Avg Wait: 35.43,Avg Turn: 45.57,Avg Response: 2.43,CPU Utilization %: 100.00,Throughput: 0.0986,,

@@ -1,0 +1,9 @@
+Process ID,Arrival,Burst,Start,Finish,Waiting,Turnaround,Response Time
+P5,0,12,0,55,43,55,0
+P6,0,16,2,69,53,69,2
+P7,0,9,4,51,42,51,4
+P2,3,12,8,63,48,60,5
+P4,3,6,10,38,29,35,7
+P3,7,14,16,71,50,64,9
+P1,8,2,18,20,10,12,10
+SUMMARY,Round Robin (Quantum = 2),7 processes,Avg Wait: 39.29,Avg Turn: 49.43,Avg Response: 5.29,CPU Utilization %: 100.00,Throughput: 0.0986,,

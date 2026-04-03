@@ -1,0 +1,9 @@
+Process ID,Arrival,Burst,Start,Finish,Waiting,Turnaround,Response Time
+P6,0,16,0,16,0,16,0
+P1,8,2,16,18,8,10,8
+P5,0,12,18,30,18,30,18
+P7,0,9,30,39,30,39,30
+P4,3,6,39,45,36,42,36
+P3,7,14,45,59,38,52,38
+P2,3,12,59,71,56,68,56
+SUMMARY,Priority Scheduling (Higher # = Higher Priority),7 processes,Avg Wait: 26.57,Avg Turn: 36.71,Avg Response: 26.57,CPU Utilization %: 100.00,Throughput: 0.0986,,
